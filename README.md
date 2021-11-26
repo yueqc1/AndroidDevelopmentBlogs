@@ -12,18 +12,18 @@
 - [插件化与热修复](细分领域/插件化与热修复.md)
 - [React Native](细分领域/ReactNative.md)
 - [Flutter](细分领域/Flutter.md)
-- [Android IM 推送开发之基于 Openfire+Smack](细分领域/AndroidIM推送开发之基于Openfire+Smack.md)
+- [Android IM 推送开发之基于 Openfire+Smack](细分领域/AndroidIM%20推送开发之基于%20Openfire+Smack.md)
 
 ## 源码解析
 
-- [Android 常用原理](源码解析/Android-常用原理.md)
-- [Android 重要控件原理](源码解析/Android重要控件原理.md)
-- [Android 系统服务原理](源码解析/Android系统服务原理.md)
-- [Android 三方框架原理](源码解析/Android三方框架原理.md)
-- [Java 语言原理](源码解析/Java语言原理.md)
-- [Java 集合类原理](源码解析/Java集合类原理.md)
-- [Java 虚拟机原理](源码解析/Java虚拟机原理.md)
-- [Java 多线程原理](源码解析/Java多线程原理.md)
+- [Android 常用原理](源码解析/Android%20常用原理.md)
+- [Android 重要控件原理](源码解析/Android%20重要控件原理.md)
+- [Android 系统服务原理](源码解析/Android%20系统服务原理.md)
+- [Android 三方框架原理](源码解析/Android%20三方框架原理.md)
+- [Java 语言原理](源码解析/Java%20语言原理.md)
+- [Java 集合类原理](源码解析/Java%20集合类原理.md)
+- [Java 虚拟机原理](源码解析/Java%20虚拟机原理.md)
+- [Java 多线程原理](源码解析/Java%20多线程原理.md)
 
 ## 编程基础
 
