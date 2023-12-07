@@ -12,6 +12,18 @@
 
 ***
 
+[Android性能优化之渲染篇](https://kesenhoo.github.io/android-performance-render/)
+
+[Android性能优化之运算篇](https://kesenhoo.github.io/android-performance-compute/)
+
+[Android性能优化之内存篇](https://kesenhoo.github.io/android-performance-memory/)
+
+[Android性能优化之对话篇](https://kesenhoo.github.io/android-performance-battery/)
+
+[Android内存优化之OOM](https://kesenhoo.github.io/android-performance-oom/)
+
+***
+
 [性能优化系列总篇](http://www.trinea.cn/android/performance/)
 
 [移动端网络优化](http://www.trinea.cn/android/mobile-performance-optimization/)
@@ -23,6 +35,10 @@
 [性能优化之数据库优化](http://www.trinea.cn/android/database-performance/)
 
 [Android性能调优](http://www.trinea.cn/android/android-performance-demo/)
+
+***
+
+[Awesome-Android-Performance](https://github.com/JsonChao/Awesome-Android-Performance)
 
 ***
 
