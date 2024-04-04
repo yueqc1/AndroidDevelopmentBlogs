@@ -1,3 +1,25 @@
+[ Android学习路线：如何成长为高级工程师](http://blog.csdn.net/singwhatiwanna/article/details/42343847)
+
+[ 我对Android的理解](http://blog.csdn.net/singwhatiwanna/article/details/46810527)
+
+[给Android程序员的一些面试建议](http://blog.csdn.net/singwhatiwanna/article/details/49230997)
+
+[Android学习路线指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
+
+***
+
+[有没有必要阅读 ANDROID 源码](http://kaedea.com/2016/02/08/android-about-source-code/index.html)
+
+[阅读 ANDROID 源码的一些姿势](http://kaedea.com/2016/02/09/android-about-source-code-how-to-read/index.html)
+
+***
+
+[如何调试Android Framework？](http://weishu.me/2016/05/30/how-to-debug-android-framework/)
+
+[如何调试Android Native Framework](http://weishu.me/2017/01/14/how-to-debug-android-native-framework-source/)
+
+***
+
 [VirtualBox 安装 Ubuntu](https://mp.weixin.qq.com/s/Z4vJoAhuiXbkbsFUHULzQg)
 
 [AOSP 源码下载](https://mp.weixin.qq.com/s/hEWNHN4_k2HY9uhnw1diMA)
