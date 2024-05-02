@@ -87,7 +87,11 @@
 ***
 
 [【深入AQS原理】我画了35张图就是为了让你深入 AQS]([https://blog.csdn.net/u012881584/article/details/105886486](https://blog.csdn.net/u012881584/article/details/105886486)
-)
 
 [面试官：小伙子，听说你看过ThreadLocal源码？（万字图文深度解析ThreadLocal）]([https://blog.csdn.net/u012881584/article/details/106013552](https://blog.csdn.net/u012881584/article/details/106013552)
-)
+
+***
+
+[不可不说的Java“锁”事 - 美团技术团队](https://tech.meituan.com/2018/11/15/java-lock.html)
+
+[从ReentrantLock的实现看AQS的原理及应用 - 美团技术团队](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
