@@ -1,3 +1,21 @@
+[Android启动这些事儿，你都拎得清吗？](https://juejin.cn/post/7039204673957396516)
+
+[进阶应用启动分析，这一篇就够了！](https://juejin.cn/post/7047377813199912968)
+
+[进阶篇｜大厂常用的启动优化有哪些？](https://juejin.cn/post/7423196076507807783)
+
+***
+
+[Awesome-Android-Performance](https://github.com/JsonChao/Awesome-Android-Performance)
+
+***
+
+[Android Performance](https://androidperformance.com/2019/12/01/BlogMap/#/%E7%90%86%E8%AE%BA%E7%9F%A5%E8%AF%86)
+
+[Android 性能优化必知必会](https://androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/#/%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%A4%96%E7%9A%84%E6%80%9D%E8%80%83)
+
+***
+
 [Android性能优化典范 - 第1季](http://hukai.me/android-performance-patterns/)
 
 [Android性能优化典范 - 第2季](http://hukai.me/android-performance-patterns-season-2/)
@@ -38,16 +56,4 @@
 
 ***
 
-[Awesome-Android-Performance](https://github.com/JsonChao/Awesome-Android-Performance)
-
-***
-
 [LeakCanary 中文使用说明](https://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
-
-***
-
-[Android内存优化之一：MAT使用入门](http://androidperformance.com/2015/04/11/AndroidMemory-Usage-Of-MAT.html)
-
-[Android内存优化之二：MAT使用进阶](http://androidperformance.com/2015/04/11/AndroidMemory-Usage-Of-MAT-Pro.html)
-
-[Android内存优化之三：打开MAT中的Bitmap原图](http://androidperformance.com/2015/04/11/AndroidMemory-Open-Bitmap-Object-In-MAT.html)
